@@ -46,7 +46,7 @@ export default function Login() {
   return (
     <MDBContainer className="loginform">
       <div className="d-flex flex-wrap justify-content-center align-items-center mt-3 gap-5">
-        <img alt="example" className="img-fluid headerimg" src="./crm.png" />
+        <img alt="example" className="img-fluid headerimg" src="./backgroundcut_edit (5).png" />
         <form onSubmit={formik.handleSubmit}>
           <h1 className="p-3">Login User Account</h1>
           {/* email */}
