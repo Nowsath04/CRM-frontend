@@ -1,5 +1,5 @@
 import React from "react";
-import "./dasboard.css";
+import "./dahboard.css";
 import { Link } from "react-router-dom";
 
 import { useState } from "react";
