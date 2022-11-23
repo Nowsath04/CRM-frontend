@@ -43,10 +43,10 @@ export default function Demo() {
           
           <div className="text-center">
           <p>
-             email: user@gmail.com
+             email:admin@gmail.com
             </p>
             <p>
-              pass: user
+              password:admin
             </p>
             <Link to="/">Login</Link>
           </div>
